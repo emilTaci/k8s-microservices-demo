@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1@deployment+v1@service": "file:///c%3A/Users/ChronoPC/Downloads/blog/infra/k8s/event-bus-depl.yaml"
+  }
+}
